@@ -1,0 +1,12 @@
+.git
+.idea
+results
+dev*
+*.pyc
+data
+datasplits
+.DS_Store
+stdout*
+tmp_tb
+*plot*
+outputs
